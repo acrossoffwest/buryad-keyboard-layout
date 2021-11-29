@@ -4,4 +4,4 @@
 ## [iOs](./ios)
 ## [Linux](./linux)
 ## [osx](./osx)
-## [Windows](./winddows)
+## [Windows](./windows)
