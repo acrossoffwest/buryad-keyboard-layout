@@ -4,6 +4,8 @@
 
 Just download .dmg file and run, follow the guide in installer.
 
+And after installing you must have to restart/re-login your computer/session
+
 ## Description
 
 For using specific buryad letters you could use shortcuts described below:
