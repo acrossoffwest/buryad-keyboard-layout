@@ -1,12 +1,18 @@
 # Buryad language keyboard layout based on Russian cyrillic keyboard layout
 
+## Installation
+
+Just download .dmg file and run, follow the guide in installer.
+
+## Description
+
 Below rare used cyrillic letters replaced:
 
-    ф - 
+    ф - h
 
-    щ - 
+    щ - ү
 
-    ц - 
+    ц - ө
 
 Keyboard layout:
 
