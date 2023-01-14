@@ -4,7 +4,7 @@
 
 Just download .dmg file and run, follow the guide in installer.
 
-And after installing you must have to restart/re-login your computer/session
+And after installing you have to restart/re-login your computer/session
 
 ## Description
 
